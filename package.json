@@ -1,0 +1,20 @@
+{
+  "name": "renamefilesoldwithnew",
+  "version": "1.0.0",
+  "description": "Node package to rename multiple files by reading data from an Excel Sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsarkhel/renamefilesoldwithnew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsarkhel/renamefilesoldwithnew/issues"
+  },
+  "homepage": "https://github.com/gsarkhel/renamefilesoldwithnew#readme"
+}
